@@ -6,7 +6,8 @@ A full-stack web application for users to rate and review stores.
 
 ## 🛠 Prerequisites
 
-- [Node.js](https://nodejs.org/) (v16+ recommended)  
+- [Node.js](https://nodejs.org/) (v16+ recommended)
+- React.js (vite)  
 - [MySQL](https://www.mysql.com/) (v8+ recommended)  
 - [Git](https://git-scm.com/) (optional)
 
